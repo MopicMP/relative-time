@@ -1,0 +1,25 @@
+{
+  "name": "relative-time",
+  "version": "1.0.0",
+  "description": "Relative time strings ('3 mins ago')",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "relative",
+    "time",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/relative-time.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
